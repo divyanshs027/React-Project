@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect} from 'react'
 import './App.css'
 import { ThemeProvider } from './context/Theme'
 import ThemeBotton from './components/ThemeButton'
